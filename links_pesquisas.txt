@@ -1,0 +1,7 @@
+http://riut.utfpr.edu.br/jspui/bitstream/1/9803/2/CT_COTSI_2011_2_12.pdf
+https://www.freecodecamp.org/news/wav-file-format-how-to-open-a-wav-and-convert-wavs-to-mp3/
+https://github.com/FFmpeg/FFmpeg/tree/master/doc/examples
+http://www.cricte2004.eletrica.ufpr.br/edu/anterior/pds01/trab3/mp3/
+https://ijssst.info/Vol-19/No-6/paper36.pdf
+http://www.csun.edu/~lg48405/sed618/assignments/audio_format.html
+https://towardsdatascience.com/huffman-encoding-python-implementation-8448c3654328
